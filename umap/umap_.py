@@ -1582,7 +1582,7 @@ class UMAP(BaseEstimator):
 
     def __init__(
         self,
-        n_neighbors=90,
+        n_neighbors=47,
         n_components=2,
         metric="euclidean",
         metric_kwds=None,
